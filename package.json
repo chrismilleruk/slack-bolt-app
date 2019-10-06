@@ -1,0 +1,14 @@
+{
+  "name": "first-bolt-app",
+  "version": "1.0.0",
+  "description": "First Bolt App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chrismilleruk",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^1.3.0"
+  }
+}
