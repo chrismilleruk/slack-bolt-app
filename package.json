@@ -9,7 +9,7 @@
   "author": "chrismilleruk",
   "license": "ISC",
   "dependencies": {
-    "@slack/bolt": "^1.3.0",
+    "@slack/bolt": "^3.0.0",
     "natural": "^5.1.11"
   }
 }
